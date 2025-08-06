@@ -22,7 +22,7 @@ jobs:
         with:
           repository: abes-esr/abes-documentation-api-publish
           path: depot-principal
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN_GITHUB_FOR_GITHUB_ACTION }}
 
       - name: Mettre à jour le sous-module dans le dépôt principal
         run: |
