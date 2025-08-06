@@ -1,0 +1,32 @@
+name: Update Parent Repository abes-documentation-api-publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-parent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sous-module
+        uses: actions/checkout@v2
+
+      - name: Configurer Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Cloner le dépôt principal
+        uses: actions/checkout@v2
+        with:
+          repository: abes-esr/abes-documentation-api-publish
+          path: depot-principal
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Mettre à jour le sous-module dans le dépôt principal
+        run: |
+          cd depot-principal
+          git submodule update --remote
+          git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
+          git push origin main
