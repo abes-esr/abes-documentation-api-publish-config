@@ -27,6 +27,27 @@ jobs:
       - name: Mettre à jour le sous-module dans le dépôt principal
         run: |
           cd depot-principal
-          git submodule update --remote
+          git submodule update --init --recursive
+          cd config-module
+          git pull origin main
+          cd ..
+          git add config-module
+          git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
+          git push origin develop
+          git checkout test
+          git submodule update --init --recursive
+          cd config-module
+          git pull origin main
+          cd ..
+          git add config-module
+          git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
+          git push origin test
+          git checkout main
+          git submodule update --init --recursive
+          cd config-module
+          git pull origin main
+          cd ..
+          git add config-module
           git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
           git push origin main
+          
