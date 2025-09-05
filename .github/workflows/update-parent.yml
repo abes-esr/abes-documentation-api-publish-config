@@ -4,50 +4,20 @@ on:
   push:
     branches:
       - main
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   update-parent:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout sous-module
-        uses: actions/checkout@v2
-
-      - name: Configurer Git
+      - name: Déclencher le workflow du dépôt abes-documentation-api-publish
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-      - name: Cloner le dépôt principal
-        uses: actions/checkout@v2
-        with:
-          repository: abes-esr/abes-documentation-api-publish
-          path: depot-principal
-          token: ${{ secrets.TOKEN_GITHUB_FOR_GITHUB_ACTION }}
-
-      - name: Mettre à jour le sous-module dans le dépôt principal
-        run: |
-          cd depot-principal
-          git submodule update --init --recursive
-          cd config-module
-          git pull origin main
-          cd ..
-          git add config-module
-          git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
-          git push origin develop
-          git checkout test
-          git submodule update --init --recursive
-          cd config-module
-          git pull origin main
-          cd ..
-          git add config-module
-          git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
-          git push origin test
-          git checkout main
-          git submodule update --init --recursive
-          cd config-module
-          git pull origin main
-          cd ..
-          git add config-module
-          git commit -m "automatic update triggered by abes-documentation-api-publish-config update"
-          git push origin main
-          
+          branches=("main" "test" "develop")
+          for branch in "${branches[@]}"; do
+            curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.TOKEN_GITHUB_FOR_GITHUB_ACTION }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/abes-esr/abes-documentation-api-publish/dispatches \
+            --data '{"event_type": "update_config_files", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
+          done
