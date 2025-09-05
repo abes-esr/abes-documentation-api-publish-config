@@ -1,6 +1,14 @@
 [
 {
- "name": "FOAD - Prerequis Calames",
+ "name": "TEST - Prerequis Calames",
+"cheminScenari": "FOAD/CalamesPrerequis/00-Structure/CalamesPrerequis.pub",
+"cheminDeploiement": "/foad/prerequis_calames",
+"type": "formation-web",
+"atelier": "Documentation"
+},
+
+ {
+ "name": "TEST - dev",
 "cheminScenari": "FOAD/CalamesPrerequis/00-Structure/CalamesPrerequis.pub",
 "cheminDeploiement": "/foad/prerequis_calames",
 "type": "formation-web",
