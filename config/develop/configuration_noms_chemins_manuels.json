@@ -1,6 +1,6 @@
 [
 {
- "name": "TEST - Prerequis Calames",
+ "name": "FOAD - Prerequis Calames",
 "cheminScenari": "FOAD/CalamesPrerequis/00-Structure/CalamesPrerequis.pub",
 "cheminDeploiement": "/foad/prerequis_calames",
 "type": "formation-web",
