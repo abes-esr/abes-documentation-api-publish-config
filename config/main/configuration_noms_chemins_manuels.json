@@ -672,7 +672,7 @@
 },
 
 {
- "name": "Idref Les notices d'autorité en RDF",
+ "name": "IdRef Les notices d'autorité en RDF",
 "cheminScenari": "ManuelsIdref/IdRefRDF/00-Structure/IdrefRdf.pub",
 "cheminDeploiement": "/aideidrefrdf",
 "type": "reference",
@@ -680,7 +680,7 @@
 },
 
 {
- "name": "Manuel Idref Français",
+ "name": "IdRef Utilisateurs Français",
 "cheminScenari": "ManuelsIdref/IdRefUtilisateurs/00-Structure/IdrefUtilisateurs.pub",
 "cheminDeploiement": "/aideidrefutilisateur",
 "type": "reference",
