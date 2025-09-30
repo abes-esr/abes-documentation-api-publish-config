@@ -648,7 +648,7 @@
 },
 
 {
- "name": "Manuel IdRef Anglais",
+ "name": "IdRef Utilisateurs Anglais",
 "cheminScenari": "ManuelsIdref/IdRefForEndUsers/00-Structure/IdRefForEndUsers.pub",
 "cheminDeploiement": "/aideidref/helpenduser",
 "type": "reference",
