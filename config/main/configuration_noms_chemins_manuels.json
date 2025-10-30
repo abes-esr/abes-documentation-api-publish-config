@@ -688,91 +688,115 @@
 },
 
 {
- "name": "Sudoc - Allemand - Bibliothek Suchen",
-"cheminScenari": "ManuelsSudoc/DU/BibliothekSuchen/00-Structure/BibliothekSuchen.pub",
-"cheminDeploiement": "/aidesudoc/DU/recherche_bibliotheque",
-"type": "reference",
-"atelier": "Documentation"
-},
-
-{
- "name": "Sudoc - Allemand - Dokument Fernverleih Bestellen",
-"cheminScenari": "ManuelsSudoc/DU/DokumentFernverleihBestellen/00-Structure/DokumentFernverleihBestellen.pub",
-"cheminDeploiement": "/aidesudoc/DU/peb",
-"type": "reference",
-"atelier": "Documentation"
-},
-
-{
- "name": "Sudoc - Allemand - Experten Suche",
-"cheminScenari": "ManuelsSudoc/DU/ExpertenSuche/00-Structure/ExpertenSuche.pub",
-"cheminDeploiement": "/aidesudoc/DU/recherche_experte",
-"type": "reference",
-"atelier": "Documentation"
-},
-
-{
- "name": "Sudoc - Allemand - Mit Einigen Klicks Suchen",
-"cheminScenari": "ManuelsSudoc/DU/PerformSearchOperation/00-Structure/MitEinigenKlicksSuchen.pub",
-"cheminDeploiement": "/aidesudoc/DU/recherche_simple",
-"type": "reference",
-"atelier": "Documentation"
-},
-
-{
- "name": "Sudoc - Allemand - RechercherThese",
-"cheminScenari": "ManuelsSudoc/DU/RechercherThese/RechercherThese.pub",
-"cheminDeploiement": "aidesudoc/DU/recherche_these",
-"type": "guide",
-"atelier": "Documentation"
-},
-
-{
- "name": "Sudoc - Allemand - SucheVerfeinen",
-"cheminScenari": "ManuelsSudoc/DU/SucheVerfeinen/00-Structure/SucheVerfeinen.pub",
+ "name": "Sudoc - Allemand - Affiner la recherche",
+"cheminScenari": "ManuelsSudoc/DU/AffinerRecherche/00-Structure/AffinerRecherche.pub",
 "cheminDeploiement": "/aidesudoc/DU/recherche_affiner",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Allemand"
 },
 
 {
- "name": "Sudoc - Anglais - Ask For a Document",
-"cheminScenari": "ManuelsSudoc/EN/AskForDocument/00-Structure/AskForDocument.pub",
-"cheminDeploiement": "/aidesudoc/EN/peb",
+ "name": "Sudoc - Allemand - Export de données bibliographiques",
+"cheminScenari": "ManuelsSudoc/DU/ExportBibliographique/00-Structure/ExportBibliographique.pub",
+"cheminDeploiement": "/aidesudoc/DU/exports_biblio",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Allemand"
 },
 
 {
- "name": "Sudoc - Anglais - Find a Library",
-"cheminScenari": "ManuelsSudoc/EN/FindLibrary/00-Structure/FindLibrary.pub",
-"cheminDeploiement": "/aidesudoc/EN/recherche_bibliotheque",
+ "name": "Sudoc - Allemand - Obtenir un document en PEB via l'interface du Sudoc",
+"cheminScenari": "ManuelsSudoc/DU/ObtenirDocument/00-Structure/ObtenirDocument.pub",
+"cheminDeploiement": "/aidesudoc/DU/peb",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Allemand"
 },
 
 {
- "name": "Sudoc - Anglais - Perform a Search Operation",
-"cheminScenari": "ManuelsSudoc/EN/PerformSearchOperation/00-Structure/PerformSearchOperation.pub",
-"cheminDeploiement": "/aidesudoc/EN/recherche_simple",
+ "name": "Sudoc - Allemand - Rechercher une bibliothèque",
+"cheminScenari": "ManuelsSudoc/DU/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
+"cheminDeploiement": "/aidesudoc/DU/recherche_bibliotheque",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Allemand"
 },
 
 {
- "name": "Sudoc - Anglais - Professionnal Search",
-"cheminScenari": "ManuelsSudoc/EN/ProfessionnalSearch/00-Structure/ProfessionnalSearch.pub",
-"cheminDeploiement": "/aidesudoc/EN/recherche_experte",
+ "name": "Sudoc - Allemand - Rechercher en mode expert",
+"cheminScenari": "ManuelsSudoc/DU/RechercheExperte/00-Structure/RechercheExperte.pub",
+"cheminDeploiement": "/aidesudoc/DU/recherche_experte",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Allemand"
 },
 
- {
- "name": "Sudoc - Anglais - Refine Search Operation",
-"cheminScenari": "ManuelsSudoc/EN/RefineSearchOperation/00-Structure/RefineSearchOperation.pub",
+{
+ "name": "Sudoc - Allemand - Chercher en quelques clics",
+"cheminScenari": "ManuelsSudoc/DU/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
+"cheminDeploiement": "/aidesudoc/DU/recherche_simple",
+"type": "reference",
+"atelier": "Documentation - Allemand"
+},
+
+{
+ "name": "Sudoc - Allemand - Chercher une thèse ou un travail universitaire dans le Sudoc",
+"cheminScenari": "ManuelsSudoc/DU/RechercherThese/00-Structure/RechercherThese.pub",
+"cheminDeploiement": "/aidesudoc/DU/recherche_these",
+"type": "guide",
+"atelier": "Documentation - Allemand"
+},
+
+{
+ "name": "Sudoc - Anglais - Affiner la recherche",
+"cheminScenari": "ManuelsSudoc/EN/AffinerRecherche/00-Structure/AffinerRecherche.pub",
 "cheminDeploiement": "/aidesudoc/EN/recherche_affiner",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Anglais"
+},
+
+{
+ "name": "Sudoc - Anglais - Export de données bibliographiques",
+"cheminScenari": "ManuelsSudoc/EN/ExportBibliographique/00-Structure/ExportBibliographique.pub",
+"cheminDeploiement": "/aidesudoc/EN/exports_biblio",
+"type": "reference",
+"atelier": "Documentation - Anglais"
+},
+
+{
+ "name": "Sudoc - Anglais - Obtenir un document en PEB via l'interface du Sudoc",
+"cheminScenari": "ManuelsSudoc/EN/ObtenirDocument/00-Structure/ObtenirDocument.pub",
+"cheminDeploiement": "/aidesudoc/EN/peb",
+"type": "reference",
+"atelier": "Documentation - Anglais"
+},
+
+{
+ "name": "Sudoc - Anglais - Rechercher une bibliothèque",
+"cheminScenari": "ManuelsSudoc/EN/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
+"cheminDeploiement": "/aidesudoc/EN/recherche_bibliotheque",
+"type": "reference",
+"atelier": "Documentation - Anglais"
+},
+
+{
+ "name": "Sudoc - Anglais - Rechercher en mode expert",
+"cheminScenari": "ManuelsSudoc/EN/RechercheExperte/00-Structure/RechercheExperte.pub",
+"cheminDeploiement": "/aidesudoc/EN/recherche_experte",
+"type": "reference",
+"atelier": "Documentation - Anglais"
+},
+
+{
+ "name": "Sudoc - Anglais - Chercher en quelques clics",
+"cheminScenari": "ManuelsSudoc/EN/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
+"cheminDeploiement": "/aidesudoc/EN/recherche_simple",
+"type": "reference",
+"atelier": "Documentation - Anglais"
+},
+
+{
+ "name": "Sudoc - Anglais - Chercher une thèse ou un travail universitaire dans le Sudoc",
+"cheminScenari": "ManuelsSudoc/EN/RechercherThese/00-Structure/RechercherThese.pub",
+"cheminDeploiement": "/aidesudoc/EN/recherche_these",
+"type": "guide",
+"atelier": "Documentation - Anglais"
 },
 
 {
