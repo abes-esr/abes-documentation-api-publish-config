@@ -689,7 +689,7 @@
 
 {
  "name": "Sudoc - Allemand - Affiner la recherche",
-"cheminScenari": "ManuelsSudoc/DU/AffinerRecherche/00-Structure/AffinerRecherche.pub",
+"cheminScenari": "ManuelsSudoc/AffinerRecherche/00-Structure/AffinerRecherche.pub",
 "cheminDeploiement": "/aidesudoc/DU/recherche_affiner",
 "type": "reference",
 "atelier": "Documentation - Allemand"
@@ -697,7 +697,7 @@
 
 {
  "name": "Sudoc - Allemand - Export de données bibliographiques",
-"cheminScenari": "ManuelsSudoc/DU/ExportBibliographique/00-Structure/ExportBibliographique.pub",
+"cheminScenari": "ManuelsSudoc/ExportBibliographique/00-Structure/ExportBibliographique.pub",
 "cheminDeploiement": "/aidesudoc/DU/exports_biblio",
 "type": "reference",
 "atelier": "Documentation - Allemand"
@@ -705,7 +705,7 @@
 
 {
  "name": "Sudoc - Allemand - Obtenir un document en PEB via l'interface du Sudoc",
-"cheminScenari": "ManuelsSudoc/DU/ObtenirDocument/00-Structure/ObtenirDocument.pub",
+"cheminScenari": "ManuelsSudoc/ObtenirDocument/00-Structure/ObtenirDocument.pub",
 "cheminDeploiement": "/aidesudoc/DU/peb",
 "type": "reference",
 "atelier": "Documentation - Allemand"
@@ -713,7 +713,7 @@
 
 {
  "name": "Sudoc - Allemand - Rechercher une bibliothèque",
-"cheminScenari": "ManuelsSudoc/DU/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
+"cheminScenari": "ManuelsSudoc/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
 "cheminDeploiement": "/aidesudoc/DU/recherche_bibliotheque",
 "type": "reference",
 "atelier": "Documentation - Allemand"
@@ -721,7 +721,7 @@
 
 {
  "name": "Sudoc - Allemand - Rechercher en mode expert",
-"cheminScenari": "ManuelsSudoc/DU/RechercheExperte/00-Structure/RechercheExperte.pub",
+"cheminScenari": "ManuelsSudoc/RechercheExperte/00-Structure/RechercheExperte.pub",
 "cheminDeploiement": "/aidesudoc/DU/recherche_experte",
 "type": "reference",
 "atelier": "Documentation - Allemand"
@@ -729,7 +729,7 @@
 
 {
  "name": "Sudoc - Allemand - Chercher en quelques clics",
-"cheminScenari": "ManuelsSudoc/DU/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
+"cheminScenari": "ManuelsSudoc/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
 "cheminDeploiement": "/aidesudoc/DU/recherche_simple",
 "type": "reference",
 "atelier": "Documentation - Allemand"
@@ -737,7 +737,7 @@
 
 {
  "name": "Sudoc - Allemand - Chercher une thèse ou un travail universitaire dans le Sudoc",
-"cheminScenari": "ManuelsSudoc/DU/RechercherThese/00-Structure/RechercherThese.pub",
+"cheminScenari": "ManuelsSudoc/RechercherThese/00-Structure/RechercherThese.pub",
 "cheminDeploiement": "/aidesudoc/DU/recherche_these",
 "type": "guide",
 "atelier": "Documentation - Allemand"
@@ -745,7 +745,7 @@
 
 {
  "name": "Sudoc - Anglais - Affiner la recherche",
-"cheminScenari": "ManuelsSudoc/EN/AffinerRecherche/00-Structure/AffinerRecherche.pub",
+"cheminScenari": "ManuelsSudoc/AffinerRecherche/00-Structure/AffinerRecherche.pub",
 "cheminDeploiement": "/aidesudoc/EN/recherche_affiner",
 "type": "reference",
 "atelier": "Documentation - Anglais"
@@ -753,7 +753,7 @@
 
 {
  "name": "Sudoc - Anglais - Export de données bibliographiques",
-"cheminScenari": "ManuelsSudoc/EN/ExportBibliographique/00-Structure/ExportBibliographique.pub",
+"cheminScenari": "ManuelsSudoc/ExportBibliographique/00-Structure/ExportBibliographique.pub",
 "cheminDeploiement": "/aidesudoc/EN/exports_biblio",
 "type": "reference",
 "atelier": "Documentation - Anglais"
@@ -761,7 +761,7 @@
 
 {
  "name": "Sudoc - Anglais - Obtenir un document en PEB via l'interface du Sudoc",
-"cheminScenari": "ManuelsSudoc/EN/ObtenirDocument/00-Structure/ObtenirDocument.pub",
+"cheminScenari": "ManuelsSudoc/ObtenirDocument/00-Structure/ObtenirDocument.pub",
 "cheminDeploiement": "/aidesudoc/EN/peb",
 "type": "reference",
 "atelier": "Documentation - Anglais"
@@ -769,7 +769,7 @@
 
 {
  "name": "Sudoc - Anglais - Rechercher une bibliothèque",
-"cheminScenari": "ManuelsSudoc/EN/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
+"cheminScenari": "ManuelsSudoc/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
 "cheminDeploiement": "/aidesudoc/EN/recherche_bibliotheque",
 "type": "reference",
 "atelier": "Documentation - Anglais"
@@ -777,7 +777,7 @@
 
 {
  "name": "Sudoc - Anglais - Rechercher en mode expert",
-"cheminScenari": "ManuelsSudoc/EN/RechercheExperte/00-Structure/RechercheExperte.pub",
+"cheminScenari": "ManuelsSudoc/RechercheExperte/00-Structure/RechercheExperte.pub",
 "cheminDeploiement": "/aidesudoc/EN/recherche_experte",
 "type": "reference",
 "atelier": "Documentation - Anglais"
@@ -785,7 +785,7 @@
 
 {
  "name": "Sudoc - Anglais - Chercher en quelques clics",
-"cheminScenari": "ManuelsSudoc/EN/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
+"cheminScenari": "ManuelsSudoc/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
 "cheminDeploiement": "/aidesudoc/EN/recherche_simple",
 "type": "reference",
 "atelier": "Documentation - Anglais"
@@ -793,7 +793,7 @@
 
 {
  "name": "Sudoc - Anglais - Chercher une thèse ou un travail universitaire dans le Sudoc",
-"cheminScenari": "ManuelsSudoc/EN/RechercherThese/00-Structure/RechercherThese.pub",
+"cheminScenari": "ManuelsSudoc/RechercherThese/00-Structure/RechercherThese.pub",
 "cheminDeploiement": "/aidesudoc/EN/recherche_these",
 "type": "guide",
 "atelier": "Documentation - Anglais"
@@ -801,7 +801,7 @@
 
 {
  "name": "Sudoc - Français - Affiner la recherche",
-"cheminScenari": "ManuelsSudoc/FR/AffinerRecherche/00-Structure/AffinerRecherche.pub",
+"cheminScenari": "ManuelsSudoc/AffinerRecherche/00-Structure/AffinerRecherche.pub",
 "cheminDeploiement": "/aidesudoc/FR/recherche_affiner",
 "type": "reference",
 "atelier": "Documentation"
@@ -809,7 +809,7 @@
 
 {
  "name": "Sudoc - Français - Export de données bibliographiques",
-"cheminScenari": "ManuelsSudoc/FR/ExportBibliographique/00-Structure/ExportBibliographique.pub",
+"cheminScenari": "ManuelsSudoc/ExportBibliographique/00-Structure/ExportBibliographique.pub",
 "cheminDeploiement": "/aidesudoc/FR/exports_biblio",
 "type": "reference",
 "atelier": "Documentation"
@@ -817,7 +817,7 @@
 
 {
  "name": "Sudoc - Français - Obtenir un document en PEB via l'interface du Sudoc",
-"cheminScenari": "ManuelsSudoc/FR/ObtenirDocument/00-Structure/ObtenirDocument.pub",
+"cheminScenari": "ManuelsSudoc/ObtenirDocument/00-Structure/ObtenirDocument.pub",
 "cheminDeploiement": "/aidesudoc/FR/peb",
 "type": "reference",
 "atelier": "Documentation"
@@ -825,7 +825,7 @@
 
 {
  "name": "Sudoc - Français - Rechercher une bibliothèque",
-"cheminScenari": "ManuelsSudoc/FR/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
+"cheminScenari": "ManuelsSudoc/RechercheBibliotheque/00-PageStructure/RechercheBibliotheque.pub",
 "cheminDeploiement": "/aidesudoc/FR/recherche_bibliotheque",
 "type": "reference",
 "atelier": "Documentation"
@@ -833,7 +833,7 @@
 
 {
  "name": "Sudoc - Français - Rechercher en mode expert",
-"cheminScenari": "ManuelsSudoc/FR/RechercheExperte/00-Structure/RechercheExperte.pub",
+"cheminScenari": "ManuelsSudoc/RechercheExperte/00-Structure/RechercheExperte.pub",
 "cheminDeploiement": "/aidesudoc/FR/recherche_experte",
 "type": "reference",
 "atelier": "Documentation"
@@ -841,7 +841,7 @@
 
 {
  "name": "Sudoc - Français - Chercher en quelques clics",
-"cheminScenari": "ManuelsSudoc/FR/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
+"cheminScenari": "ManuelsSudoc/RechercheQuelquesClics/00-Structure/RechercheQuelquesClics.pub",
 "cheminDeploiement": "/aidesudoc/FR/recherche_simple",
 "type": "reference",
 "atelier": "Documentation"
@@ -849,7 +849,7 @@
 
 {
  "name": "Sudoc - Français - Chercher une thèse ou un travail universitaire dans le Sudoc",
-"cheminScenari": "ManuelsSudoc/FR/RechercherThese/00-Structure/RechercherThese.pub",
+"cheminScenari": "ManuelsSudoc/RechercherThese/00-Structure/RechercherThese.pub",
 "cheminDeploiement": "/aidesudoc/FR/recherche_these",
 "type": "guide",
 "atelier": "Documentation"
