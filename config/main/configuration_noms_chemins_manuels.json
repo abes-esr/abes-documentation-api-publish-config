@@ -592,14 +592,6 @@
 },
 
 {
- "name": "GM - Reseaux - Réseau Sudoc-PS",
-"cheminScenari": "ManuelsGm/Reseaux/StructureSudocPS/00-Structure/ReseauSudocPS.pub",
-"cheminDeploiement": "/guide/html/manuels/reseaux/structure_sudocPS",
-"type": "reference",
-"atelier": "Documentation"
-},
-
-{
  "name": "GM - RessourcesContinues - Format Sudoc-PS des états de collection",
 "cheminScenari": "ManuelsGm/RessourcesContinues/FormatSudocPsEtatsCollection/00-Structure/FormatSudocPsEtatsCollection.pub",
 "cheminDeploiement": "/guide/html/manuels/ressources_continues/formatCRetatColl",
