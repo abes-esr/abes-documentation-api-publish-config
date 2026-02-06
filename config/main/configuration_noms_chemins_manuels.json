@@ -232,14 +232,6 @@
 },
 
 {
- "name": "GM - AdministrationOutil - Gestion des utilisateurs professionnels du réseau SudocPs",
-"cheminScenari": "ManuelsGm/AdministrationOutils/GestionUtilisateurProSudocPs/00-Structure/GestionUtilisateurProSudocPs.pub",
-"cheminDeploiement": "/guide/html/manuels/administration/gestion_utilisateurs_cr",
-"type": "reference",
-"atelier": "Documentation"
-},
-
-{
  "name": "GM - AdministrationOutil - Lien profond vers le catalogue local Opac",
 "cheminScenari": "ManuelsGm/AdministrationOutils/LienProfondOpac/00-Structure/LienProfondOpac.pub",
 "cheminDeploiement": "/guide/html/manuels/administration/lienprofond",
