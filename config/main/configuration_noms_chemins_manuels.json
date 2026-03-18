@@ -121,7 +121,7 @@
 
 {
  "name": "SciencePlus",
-"cheminScenari": "ManuelSciencePlus/00-PagesStructure/SciencePlusAbes.pub",
+"cheminScenari": "/ManuelSciencePlus/00-Structure/SciencePlusAbes.pub",
 "cheminDeploiement": "/aidescienceplusabes",
 "type": "reference",
 "atelier": "Documentation"
@@ -609,7 +609,7 @@
 
 {
  "name": "IdRef pour les catalogueurs et les catalogueuses",
-"cheminScenari": "ManuelsIdref/IdRefCatalogueur/00-Structure/IdrefCatalogueurs.pub",
+"cheminScenari": "ManuelsIdRef/IdRefCatalogueur/00-Structure/IdrefCatalogueurs.pub",
 "cheminDeploiement": "/aideidrefcatalogueur",
 "type": "reference",
 "atelier": "Documentation"
@@ -617,7 +617,7 @@
 
 {
  "name": "IdRef pour les développeuses et développeurs",
-"cheminScenari": "ManuelsIdref/IdRefDeveloppeurs/00-Structure/IdrefDeveloppeurs.pub",
+"cheminScenari": "ManuelsIdRef/IdRefDeveloppeurs/00-Structure/IdrefDeveloppeurs.pub",
 "cheminDeploiement": "/aideidrefdeveloppeur",
 "type": "reference",
 "atelier": "Documentation"
@@ -625,7 +625,7 @@
 
 {
  "name": "data.idref.fr",
-"cheminScenari": "ManuelsIdref/IdRefdataidref/00-Structure/dataidref.pub",
+"cheminScenari": "ManuelsIdRef/IdRefdataidref/00-Structure/dataidref.pub",
 "cheminDeploiement": "/aideidrefdata",
 "type": "reference",
 "atelier": "Documentation"
@@ -633,7 +633,7 @@
 
 {
  "name": "IdRef Utilisateurs Anglais",
-"cheminScenari": "ManuelsIdref/IdRefForEndUsers/00-Structure/IdRefForEndUsers.pub",
+"cheminScenari": "ManuelsIdRef/IdRefForEndUsers/00-Structure/IdRefForEndUsers.pub",
 "cheminDeploiement": "/aideidref/helpenduser",
 "type": "reference",
 "atelier": "Documentation"
@@ -641,7 +641,7 @@
 
 {
  "name": "IdRef via OAI-PMH",
-"cheminScenari": "ManuelsIdref/IdRefOAI-PMH/00-Structure/OaiPmh.pub",
+"cheminScenari": "ManuelsIdRef/IdRefOAI-PMH/00-Structure/OaiPmh.pub",
 "cheminDeploiement": "/aideidrefoai",
 "type": "reference",
 "atelier": "Documentation"
@@ -649,7 +649,7 @@
 
 {
  "name": "IdRef Paprika",
-"cheminScenari": "ManuelsIdref/IdRefPaprika/00-Structure/Paprika.pub",
+"cheminScenari": "ManuelsIdRef/IdRefPaprika/00-Structure/Paprika.pub",
 "cheminDeploiement": "/aideidrefpaprika",
 "type": "reference",
 "atelier": "Documentation"
@@ -657,7 +657,7 @@
 
 {
  "name": "IdRef Les notices d'autorité en RDF",
-"cheminScenari": "ManuelsIdref/IdRefRDF/00-Structure/IdrefRdf.pub",
+"cheminScenari": "ManuelsIdRef/IdRefRDF/00-Structure/IdrefRdf.pub",
 "cheminDeploiement": "/aideidrefrdf",
 "type": "reference",
 "atelier": "Documentation"
@@ -665,7 +665,7 @@
 
 {
  "name": "IdRef Utilisateurs Français",
-"cheminScenari": "ManuelsIdref/IdRefUtilisateurs/00-Structure/IdrefUtilisateurs.pub",
+"cheminScenari": "ManuelsIdRef/IdRefUtilisateurs/00-Structure/IdrefUtilisateurs.pub",
 "cheminDeploiement": "/aideidrefutilisateur",
 "type": "reference",
 "atelier": "Documentation"
