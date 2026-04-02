@@ -19,3 +19,6 @@ Liste les noms de fichiers et de dossiers à écraser lors du déploiement sur l
 
 #### 2.3. configuration_noms_chemins_manuels.json
 Liste chaque manuel et son type ainsi que les chemins correspondant dans l'atelier scenari et le dossier où la documentation doit être déployée. Cette partie est versionnée et doit correspondre à son environnement d'exploitation (develop|test|main). **main** correspond à l'environnement de production.
+
+### 3. Github Action
+La github action update_parent se connecte au dépôt abes-esr/abes-documentation-api-publish et déclenche l'action update_config_files qui fait un pull de la dernière version de ce sous-module.
