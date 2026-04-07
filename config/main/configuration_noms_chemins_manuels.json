@@ -145,12 +145,20 @@
 
 {
  "name": "Bacon Anglais",
-"cheminScenari": "ManuelsBacon/ManuelBaconAnglais/00-Structure/HandbookBacon.pub",
+"cheminScenari": "ManuelsBacon/ManuelBacon/00-Structure/Bacon.pub",
 "cheminDeploiement": "/aidebacon/EN",
 "type": "reference",
-"atelier": "Documentation"
+"atelier": "Documentation - Anglais"
 },
 
+ {
+ "name": "Bacon Espagnol",
+"cheminScenari": "ManuelsBacon/ManuelBacon/00-Structure/Bacon.pub",
+"cheminDeploiement": "/aidebacon/ES",
+"type": "reference",
+"atelier": "Documentation - Espagnol"
+},
+ 
 {
  "name": "Bacon Webdav",
 "cheminScenari": "ManuelsBacon/OwnCloudWebdav/00-Structure/Webdav.pub",
@@ -165,6 +173,22 @@
 "cheminDeploiement": "/aidebacon/QualiteDesImports",
 "type": "reference",
 "atelier": "Documentation"
+},
+ 
+{
+ "name": "Qualité des imports dans Bacon Anglais",
+"cheminScenari": "ManuelsBacon/QualiteImportsBacon/00-Structure/QualiteDesImportsDansBacon.pub",
+"cheminDeploiement": "/aidebacon/QualiteDesImports/EN",
+"type": "reference",
+"atelier": "Documentation - Anglais"
+},
+
+{
+"name": "Qualité des imports dans Bacon Espagnol",
+"cheminScenari": "ManuelsBacon/QualiteImportsBacon/00-Structure/QualiteDesImportsDansBacon.pub",
+"cheminDeploiement": "/aidebacon/QualiteDesImports/ES",
+"type": "reference",
+"atelier": "Documentation - Espagnol"
 },
 
 {
