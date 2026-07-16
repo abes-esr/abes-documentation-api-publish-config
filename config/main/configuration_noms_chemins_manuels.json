@@ -1,5 +1,69 @@
 [
 {
+ "name": "Formation - Sucoordi sequence 1",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/01-TravaillerDansLeReseauSudoc/00-Structure/TravaillerDansLeReseauSudoc.pub",
+"cheminDeploiement": "/formation/sucoordi/sequence1",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - Sucoordi sequence 2",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/02-ConnaitreLesOutilsDuReseauSudoc/00-Structure/ConnaitreLesOutilsDuReseauSudoc.pub",
+"cheminDeploiement": "/formation/sucoordi/sequence2",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - Sucoordi sequence 3",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/03-RoleDesCorrespondants/00-Structure/LeRoleDesDifferentsCorrespondants.pub",
+"cheminDeploiement": "/formation/sucoordi/sequence3",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - Sucoordi sequence 6",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/06-ControleDesDonnéesProduitesDansWinIBW/00-Structure/ControleDesDonnéesProduitesParWinIBW.pub",
+"cheminDeploiement": "/formation/sucoordi/sequence6",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - Sucoordi sequence 11",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/11-TransfertsReguliersSudoc/00-Structure/SucoordiTransfertsReguliersSudoc.pub",
+"cheminDeploiement": "/formation/sucoordi/sequence11",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - Sucoordi sequence 13",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/13-ExportsDeDonnees/ExportsDeDonnees.pub",
+"cheminDeploiement": "/formation/sucoordi/sequence13",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - Kit WiniBW",
+"cheminScenari": "/01-Formation/AutoformationSuCoordi/13-ExportsDeDonnees/ExportsDeDonnees.pub",
+"cheminDeploiement": "/formation/kitdebuterwinibw",
+"type": "formation-web",
+"atelier": "Documentation"
+}
+
+{
+ "name": "Formation - FAQ Ambassadeurs et Ambassadrices Orion",
+"cheminScenari": "/FAQ_AmbassadeuricesOrion/00-Structure/faq-ambassadeurs-ambassadrices-orion.pub",
+"cheminDeploiement": "formation/faq-ambassadeurs-ambassadrices-orion",
+"type": "reference",
+"atelier": "Clarivate"
+}
+
+{
  "name": "FOAD - Prerequis Calames",
 "cheminScenari": "FOAD/CalamesPrerequis/00-Structure/CalamesPrerequis.pub",
 "cheminDeploiement": "/foad/prerequis_calames",
@@ -48,8 +112,8 @@
 },
 
 {
- "name": "FOAD - Autoformation au module Supeb",
-"cheminScenari": "FOAD/SupebAutoformation/00-Structure/PebAutoFormation.pub",
+ "name": "Formation - Supeb",
+"cheminScenari": "/01-Formation/SupebAutoformation/00-Structure/PebAutoFormation.pub",
 "cheminDeploiement": "/guide/html/manuels/peb/autoformation",
 "type": "guide",
 "atelier": "Documentation"
@@ -860,6 +924,14 @@
 "cheminScenari": "ManuelsSudoc/RechercherThese/00-Structure/RechercherThese.pub",
 "cheminDeploiement": "/aidesudoc/FR/recherche_these",
 "type": "guide",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - Kit Theses",
+"cheminScenari": "/ManuelsTheses/KitBienUtiliserApplisTheses/00-Structure/KitBienUtiliserApplisTheses.pub",
+"cheminDeploiement": "/formation/theses",
+"type": "reference",
 "atelier": "Documentation"
 },
 
