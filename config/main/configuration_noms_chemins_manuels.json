@@ -5,7 +5,7 @@
 "cheminDeploiement": "/formation/sucoordi/sequence1",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - Sucoordi sequence 2",
@@ -13,7 +13,7 @@
 "cheminDeploiement": "/formation/sucoordi/sequence2",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - Sucoordi sequence 3",
@@ -21,7 +21,7 @@
 "cheminDeploiement": "/formation/sucoordi/sequence3",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - Sucoordi sequence 6",
@@ -29,7 +29,7 @@
 "cheminDeploiement": "/formation/sucoordi/sequence6",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - Sucoordi sequence 11",
@@ -37,7 +37,7 @@
 "cheminDeploiement": "/formation/sucoordi/sequence11",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - Sucoordi sequence 13",
@@ -45,7 +45,7 @@
 "cheminDeploiement": "/formation/sucoordi/sequence13",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - Kit WiniBW",
@@ -53,7 +53,7 @@
 "cheminDeploiement": "/formation/kitdebuterwinibw",
 "type": "formation-web",
 "atelier": "Documentation"
-}
+},
 
 {
  "name": "Formation - FAQ Ambassadeurs et Ambassadrices Orion",
@@ -61,7 +61,7 @@
 "cheminDeploiement": "formation/faq-ambassadeurs-ambassadrices-orion",
 "type": "reference",
 "atelier": "Clarivate"
-}
+},
 
 {
  "name": "FOAD - Prerequis Calames",
