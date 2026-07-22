@@ -695,6 +695,14 @@
 "atelier": "Documentation"
 },
 
+ {
+ "name": "GM - RessourcesContinues - FAQ dispositif PCPP",
+"cheminScenari": "/ManuelsGm/RessourcesContinues/FAQ_PCPP/00-Structure/faq-dispositif-pcpp.pub",
+"cheminDeploiement": "/guide/html/manuels/ressources_continues/faq_pcpp",
+"type": "reference",
+"atelier": "Documentation"
+},
+
 {
  "name": "IdRef pour les catalogueurs et les catalogueuses",
 "cheminScenari": "ManuelsIdRef/IdRefCatalogueur/00-Structure/IdrefCatalogueurs.pub",
