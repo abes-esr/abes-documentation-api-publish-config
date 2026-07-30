@@ -49,7 +49,7 @@
 
 {
  "name": "Formation - Kit WiniBW",
-"cheminScenari": "/01-Formation/AutoformationSuCoordi/13-ExportsDeDonnees/ExportsDeDonnees.pub",
+"cheminScenari": "/01-Formation/KitPourDebuterAvecWinIBW/00-Structure/KitPourDebuterAvecWinIBW.pub",
 "cheminDeploiement": "/formation/kitdebuterwinibw",
 "type": "formation-web",
 "atelier": "Documentation"
