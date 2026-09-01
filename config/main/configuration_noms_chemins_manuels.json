@@ -56,6 +56,86 @@
 },
 
 {
+ "name": "Formation - PID DOI",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_DOI/PIDDOI.pub",
+"cheminDeploiement": "/formation/pid/doi",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID Essentiel",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_Essentiel/EssentielPID.pub",
+"cheminDeploiement": "/formation/pid/essentiel",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID IdRef",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_IdRef/PIDIdRef.pub",
+"cheminDeploiement": "/formation/pid/idref",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID ORCID",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_ORCID/PIDORCID.pub",
+"cheminDeploiement": "/formation/pid/orcid",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID Organisations",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_Organisations/PID_Org.pub",
+"cheminDeploiement": "/formation/pid/organisations",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID Personnes",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_Personnes/PID_Pers.pub",
+"cheminDeploiement": "/formation/pid/personnes",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID Ressources",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_Ressources/PID_Res.pub",
+"cheminDeploiement": "/formation/pid/ressources",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID ROR",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_ROR/PIDROR.pub",
+"cheminDeploiement": "/formation/pid/ror",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID Testez connaissances Série 1",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_TestezConnaissances_Serie1/PIDTestezConnaissancesSerie1.pub",
+"cheminDeploiement": "/formation/pid/testezconnaissancesSerie1",
+"type": "formation web",
+"atelier": "Documentation"
+},
+
+{
+ "name": "Formation - PID Testez Série 2",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_TestezSerie2/PIDTestezSerie2.pub",
+"cheminDeploiement": "/formation/pid/testezSerie2",
+"type": "formation web",
+"atelier": "Documentation"
+},
+ 
+{
  "name": "Formation - FAQ Ambassadeurs et Ambassadrices Orion",
 "cheminScenari": "/FAQ_AmbassadeuricesOrion/00-Structure/faq-ambassadeurs-ambassadrices-orion.pub",
 "cheminDeploiement": "formation/faq-ambassadeurs-ambassadrices-orion",
