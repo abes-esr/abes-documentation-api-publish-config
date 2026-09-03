@@ -1,14 +1,6 @@
 [
 {
-"name": "Formation - PID DOI",
-"cheminScenari": "/01-Formation/PIDAutoformation/PID_DOI/PIDDOI.pub",
-"cheminDeploiement": "/formation/pid/doi",
-"type": "formation-web",
-"atelier": "Documentation"
-},
- 
-{
- "name": "Formation - Sucoordi sequence 1",
+ "name": "Formation - Sucoordi sequence 01",
 "cheminScenari": "/01-Formation/AutoformationSuCoordi/01-TravaillerDansLeReseauSudoc/00-Structure/TravaillerDansLeReseauSudoc.pub",
 "cheminDeploiement": "/formation/sucoordi/sequence1",
 "type": "formation-web",
@@ -16,7 +8,7 @@
 },
 
 {
- "name": "Formation - Sucoordi sequence 2",
+ "name": "Formation - Sucoordi sequence 02",
 "cheminScenari": "/01-Formation/AutoformationSuCoordi/02-ConnaitreLesOutilsDuReseauSudoc/00-Structure/ConnaitreLesOutilsDuReseauSudoc.pub",
 "cheminDeploiement": "/formation/sucoordi/sequence2",
 "type": "formation-web",
@@ -24,7 +16,7 @@
 },
 
 {
- "name": "Formation - Sucoordi sequence 3",
+ "name": "Formation - Sucoordi sequence 03",
 "cheminScenari": "/01-Formation/AutoformationSuCoordi/03-RoleDesCorrespondants/00-Structure/LeRoleDesDifferentsCorrespondants.pub",
 "cheminDeploiement": "/formation/sucoordi/sequence3",
 "type": "formation-web",
@@ -32,7 +24,7 @@
 },
 
 {
- "name": "Formation - Sucoordi sequence 6",
+ "name": "Formation - Sucoordi sequence 06",
 "cheminScenari": "/01-Formation/AutoformationSuCoordi/06-ControleDesDonnéesProduitesDansWinIBW/00-Structure/ControleDesDonnéesProduitesParWinIBW.pub",
 "cheminDeploiement": "/formation/sucoordi/sequence6",
 "type": "formation-web",
@@ -59,6 +51,14 @@
  "name": "Formation - Kit WiniBW",
 "cheminScenari": "/01-Formation/KitPourDebuterAvecWinIBW/00-Structure/KitPourDebuterAvecWinIBW.pub",
 "cheminDeploiement": "/formation/kitdebuterwinibw",
+"type": "formation-web",
+"atelier": "Documentation"
+},
+
+{
+"name": "Formation - PID DOI",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_DOI/PIDDOI.pub",
+"cheminDeploiement": "/formation/pid/doi",
 "type": "formation-web",
 "atelier": "Documentation"
 },
