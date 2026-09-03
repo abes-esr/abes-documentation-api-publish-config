@@ -1,5 +1,13 @@
 [
 {
+"name": "Formation - PID DOI",
+"cheminScenari": "/01-Formation/PIDAutoformation/PID_DOI/PIDDOI.pub",
+"cheminDeploiement": "/formation/pid/doi",
+"type": "formation-web",
+"atelier": "Documentation"
+},
+ 
+{
  "name": "Formation - Sucoordi sequence 1",
 "cheminScenari": "/01-Formation/AutoformationSuCoordi/01-TravaillerDansLeReseauSudoc/00-Structure/TravaillerDansLeReseauSudoc.pub",
 "cheminDeploiement": "/formation/sucoordi/sequence1",
@@ -51,14 +59,6 @@
  "name": "Formation - Kit WiniBW",
 "cheminScenari": "/01-Formation/KitPourDebuterAvecWinIBW/00-Structure/KitPourDebuterAvecWinIBW.pub",
 "cheminDeploiement": "/formation/kitdebuterwinibw",
-"type": "formation-web",
-"atelier": "Documentation"
-},
-
-{
-"name": "Formation - PID DOI",
-"cheminScenari": "/01-Formation/PIDAutoformation/PID_DOI/PIDDOI.pub",
-"cheminDeploiement": "/formation/pid/doi",
 "type": "formation-web",
 "atelier": "Documentation"
 },
