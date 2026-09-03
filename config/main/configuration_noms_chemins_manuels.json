@@ -56,7 +56,7 @@
 },
 
 {
- "name": "Formation - PID DOI",
+"name": "Formation - PID DOI",
 "cheminScenari": "/01-Formation/PIDAutoformation/PID_DOI/PIDDOI.pub",
 "cheminDeploiement": "/formation/pid/doi",
 "type": "formation-web",
