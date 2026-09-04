@@ -442,7 +442,7 @@
 {
  "name": "GM - Catalogage - Création de liens entre notices",
 "cheminScenari": "ManuelsGm/Catalogage/CreationLiens/00-Structure/liens.pub",
-"cheminDeploiement": "/guide/html/manuels/catalogage/consignes",
+"cheminDeploiement": "/guide/html/manuels/catalogage/liens",
 "type": "reference",
 "atelier": "Documentation"
 },
