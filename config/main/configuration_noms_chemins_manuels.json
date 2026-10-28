@@ -136,9 +136,9 @@
 },
  
 {
- "name": "Formation - FAQ Ambassadeurs et Ambassadrices Orion",
-"cheminScenari": "/FAQ_AmbassadeuricesOrion/00-Structure/faq-ambassadeurs-ambassadrices-orion.pub",
-"cheminDeploiement": "formation/faq-ambassadeurs-ambassadrices-orion",
+ "name": "Formation - FAQ Projet Orion",
+"cheminScenari": "/FAQ_ProjetOrion/00-Structure/faq-projet-orion.pub",
+"cheminDeploiement": "/faq-projet-orion/",
 "type": "reference",
 "atelier": "Clarivate"
 },
